@@ -1,4 +1,3 @@
-// src/components/Stopwatch/index.js
 
 import {Component} from 'react'
 import './index.css'
